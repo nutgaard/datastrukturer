@@ -1,0 +1,13 @@
+.front-page h1 {
+    /*margin-bottom: 1rem !important;*/
+}
+.logo {
+    height: 250px;
+    filter: invert();
+    mix-blend-mode: difference;
+    margin-bottom: 4rem;
+}
+.img {
+    max-height: 33rem;
+    max-width: 100%;
+}
